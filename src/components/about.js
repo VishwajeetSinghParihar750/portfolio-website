@@ -7,6 +7,7 @@ function Index(props) {
         <h2 class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">
           About
         </h2>
+        {/*  */}
       </div>
       <div>
         <p className="mb-4">
